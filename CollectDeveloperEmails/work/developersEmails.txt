@@ -1,0 +1,148 @@
+Author: Jake Wharton <jw@squareup.com>
+Author: Jake Wharton <jakewharton@gmail.com>
+Author: googolmo <googolmo@gmail.com>
+Author: bbcallen <bbcallen@gmail.com>
+Author: Sergey Shatunov <prototypegamez@gmail.com>
+Author: Alexander Mironov <alexander.mironoff@gmail.com>
+Author: alexander-mironov <alexander.mironoff@gmail.com>
+Author: Karsten Sperling <karsten@sperling.co.nz>
+Author: Jacob <jacobcrigby@gmail.com>
+Author: Alex Yanchenko <alex@yanchenko.com>
+Author: Ikram <ikramuddinmiu@gmail.com>
+Author: Uwe Trottmann <uwe.trottmann@gmail.com>
+Author: Christian Becker <christian.becker.1987@gmail.com>
+Author: Prototik <prototypegamez@gmail.com>
+Author: hahnjo <hahnjo@hahnjo.de>
+Author: Steve Lhomme <slhomme@levelupstudio.com>
+Author: Tom <android.money@gmail.com>
+Author: Digipom Inc <github@digipom.com>
+Author: Matthew Willis <appamatto@gmail.com>
+Author: Alexandr Tereshchuk <atereshchuk@stanfy.com.ua>
+Author: Matthew Michihara <matthew.michihara@gmail.com>
+Author: Mike Burton <mburton@groupon.com>
+Author: Jonathan Steele <xfsunoles.com>
+Author: Simon Vig Therkildsen <simonvt@gmail.com>
+Author: Andrew Crichton <andrew.g.crichton@gmail.com>
+Author: Martynas Mickevičius <martynas@2m.lt>
+Author: Andrew Gaul <gaul@maginatics.com>
+Author: Martin Konecny <martin.konecny@gmail.com>
+Author: Tarkeshwar Thakur <tarkeshwar@gmail.com>
+Author: Matt Kranzler <matt@mattkranzler.org>
+Author: Logan Johnson <loganj@squareup.com>
+Author: Jeff Gilfelt <jgilfelt@gmail.com>
+Author: ChrisSmith <chris.smith324@gmail.com>
+Author: Michael Yin <michael@turntable.fm>
+Author: Gabriel Ittner <gabriel.ittner@googlemail.com>
+Author: Christopher Orr <chris@orr.me.uk>
+Author: Vandalko <rivne2@gmail.com>
+Author: Olexandr <rivne2@gmail.com>
+Author: Aleksander Pyszny <apyszny@alan-systems.com>
+Author: Kevin Sawicki <kevinsawicki@gmail.com>
+Author: Jake Wharton <JakeWharton@GMail.com>
+Author: Jack Gao <zhen9ao@gmail.com>
+Author: Simon Therkildsen <simonvt@gmail.com>
+Author: nacitar sevaht <nacitar@ubercpp.com>
+Author: Cristian C. <casidiablo@elhacker.net>
+Author: Frank Harper <frank.harper@gmail.com>
+Author: Cristian <cristian@elhacker.net>
+Author: Cristian Castiblanco <casidiablo@elhacker.net>
+Author: Pierre Durand <pierredurand@gmail.com>
+Author: David Wu <david@wu-man.com>
+Author: Edward Dale <scompt@scompt.com>
+Author: Veeti Paananen <veeti.paananen@rojekti.fi>
+Author: Mark Renouf <mrenouf@google.com>
+Author: Tsukanov <roman@tsukanov.me>
+Author: Jake Wharton <jw@square-6a8050.(none)>
+Author: nopayne <jebcor@gmail.com>
+Author: Simon Vig Therkildsen <simon@simonvt.net>
+Author: Scott Kennedy <skennedy27@gmail.com>
+Author: Kevin Wells <wellsie1116@gmail.com>
+Author: Dandre' Allison <dandre.allison@gmail.com>
+Author: Mark Renouf <mark.renouf@gmail.com>
+Author: Jack <zhen9ao@gmail.com>
+Author: Pēteris Caune <cuu508@gmail.com>
+Author: arusahni <arusahni@gmail.com>
+Author: JakeWharton <jakewharton@gmail.com>
+Author: Chris Banes <chris@senab.co.uk>
+Author: Avram Lyon <ajlyon@gmail.com>
+Author: Philip Schiffer <philip.schiffer@gmail.com>
+Author: Konstantin Burov <aectann@gmail.com>
+Author: Zach Lipton <zach@zachlipton.com>
+Author: Daniel Luz <dev@mernen.com>
+Author: Robert Jacob <robert.jacob@holidaycheck.com>
+Author: Felix Bechstein <f@ub0r.de>
+Author: P. Taylor Goetz <ptgoetz@gmail.com>
+Author: Brenden Matthews <brenden@diddyinc.com>
+Author: Nathan Marz <nathan@nathanmarz.com>
+Author: Kang Xiao <kxiao.tiger@gmail.com>
+Author: Homer Strong <homer.strong@gmail.com>
+Author: Derek Dagit <derekd@yahoo-inc.com>
+Author: James Xu <xumingming64398966@gmail.com>
+Author: Robert (Bobby) Evans <evans@yahoo-inc.com>
+Author: Boris <miofthena@gmail.com>
+Author: roadkill001 <cgeorge@federatedmedia.net>
+Author: ankitoshniwal <ankitoshniwal@gmail.com>
+Author: Jason Jackson <jackson@twitter.com>
+Author: Jake Donham <jdonham@twitter.com>
+Author: Philip (flip) Kromer <flip@infochimps.org>
+Author: anfeng <andy.feng@gmail.com>
+Author: Kyle Nusbaum <knusbaum@yahoo-inc.com>
+Author: smelody@wgen.net <smelody@wgen.net>
+Author: Tudor Scurtu <tscurtu@adobe.com>
+Author: Derek Dagit <derekd@yahoo.com>
+Author: Kyle Bolton <kyle.bolton@gmail.com>
+Author: Jason Jackson <jasonjckn@gmail.com>
+Author: afeng <afeng@gmail.com>
+Author: Yu L Li <liyu@opinionexcept.corp.yahoo.com>
+Author: afeng <afeng@yahoo-inc.com>
+Author: Michael Allman <michael@eclipse.io>
+Author: Lorcan Coyle <lorcan@gmail.com>
+Author: Andrew Olson <aolson1@cerner.com>
+Author: engineerdev <engineer.dev@gmail.com>
+Author: Nathan Marz <nathan@twitter.com>
+Author: Nathan Marz <nathan.marz@gmail.com>
+Author: Guanpeng Xu <herberteuler@yahoo.com.cn>
+Author: Sam Ritchie <sritchie@twitter.com>
+Author: Ryan <L.Ryan@Liuyu.local>
+Author: Gabriel Silk <gabe@nomic.com>
+Author: Stuart Anderson <soa@twitter.com>
+Author: Sergey Lukjanov <me@frostman.ru>
+Author: Bryan <lazyshot@gmail.com>
+Author: Bryan Peterson <Lazyshot@gmail.com>
+Author: Junichiro Takagi <t.junichiro@gmail.com>
+Author: Ross Feinstein <rfeinstein@gmail.com>
+Author: Jason Jackson <jason@cvk.ca>
+Author: bhart <bhart@bhart-desktop2.(none)>
+Author: okapies <okapies@gmail.com>
+Author: minghan <teh_minghan@hotmail.com>
+Author: danehammer <dane.molotok@gmail.com>
+Author: Sjoerd Mulder <sjoerd@frontendless.nl>
+Author: Sjoerd Mulder <sjoerdmulder@gmail.com>
+Author: Debo~ Dutta <ddutta@gmail.com>
+Author: Vinod Chandru <vinod.chandru@gmail.com>
+Author: Martin Kleppmann <martin@rapportive.com>
+Author: Jean Vancoppenolle <vancoppenolle@ferret-go.com>
+Author: Evan Chan <ev@ooyala.com>
+Author: ashley <ashley@spider.io>
+Author: xumingming <xumingming64398966@gmail.com>
+Author: Fabian Neumann <fn@sturzbach.de>
+Author: Thomas Jack <thomasjack@gmail.com>
+Author: Soren Macbeth <soren@dopeness.org>
+Author: James Xu <xumingming64398966@yahoo.com.cn>
+Author: Kasper Madsen <kaspergsm@gmail.com>
+Author: Michael Cetrulo <mail2samus@gmail.com>
+Author: Travis Wellman <travis@archive.org>
+Author: Gabriel Grant <g@briel.ca>
+Author: haitao.yao <yao.erix@gmail.com>
+Author: Haitao Yao <yao.erix@gmail.com>
+Author: Ben Hughes <ben@pixelmachine.org>
+Author: Alexey S. Kachayev <kachayev@gmail.com>
+Author: Dan Harvey <dan@state.it>
+Author: Sam Ritchie <sritchie09@gmail.com>
+Author: Dan Dillinger <ddillinger@navisite.com>
+Author: dennis zhuang <killme2008@gmail.com>
+Author: Trevor Summers Smith <trevorsummerssmith@gmail.com>
+Author: Jason Trost <jtrost@endgames.us>
+Author: Patrick Houk <patrick.houk@picotrading.com>
+Author: Tom Payne <tom.payne@camptocamp.com>
+Author: Sam Stokes <sam@rapportive.com>
