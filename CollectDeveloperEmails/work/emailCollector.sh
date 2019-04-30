@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "========= Start reading Files ============"
-path='c:\Users\Miguel Alvarado\Documents\GitHub\shell scripting\CollectDeveloperEmails\work'
+path='c:\Users\Miguel Alvarado\Documents\GitHub\Linux-Scripting\CollectDeveloperEmails\work'
 echo "root path: $path"
 printf "\n"
 
@@ -11,7 +11,7 @@ do
     echo "Start cloning project $gitLink"
 
     arr=(` echo $gitLink | tr '/' ' ' `)
-    appPath="c:\Users\Miguel Alvarado\Documents\GitHub\shell scripting\CollectDeveloperEmails\work\\${arr[3]}" 
+    appPath="c:\Users\Miguel Alvarado\Documents\GitHub\Linux-Scripting\CollectDeveloperEmails\work\\${arr[3]}" 
 
     echo "'$appPath'"
     printf "\n"
@@ -22,27 +22,27 @@ do
     if [ "${arr[3]}" == "ActionBarSherlock" ] 
     then 
         
-        cd 'c:\Users\Miguel Alvarado\Documents\GitHub\shell scripting\CollectDeveloperEmails\work\ActionBarSherlock'
+        cd 'c:\Users\Miguel Alvarado\Documents\GitHub\Linux-Scripting\CollectDeveloperEmails\work\ActionBarSherlock'
         echo "====== Getting Logs ========"
         printf "\n"
         git log > ../${arr[3]}_log.txt
-        rm -rf 'c:\Users\Miguel Alvarado\Documents\GitHub\shell scripting\CollectDeveloperEmails\work\ActionBarSherlock'
+        rm -rf 'c:\Users\Miguel Alvarado\Documents\GitHub\Linux-Scripting\CollectDeveloperEmails\work\ActionBarSherlock'
         echo "complete"ss
     fi
 
     if [ "${arr[3]}" == "storm" ] 
     then 
         
-        cd 'c:\Users\Miguel Alvarado\Documents\GitHub\shell scripting\CollectDeveloperEmails\work\storm'
+        cd 'c:\Users\Miguel Alvarado\Documents\GitHub\Linux-Scripting\CollectDeveloperEmails\work\storm'
         echo ${pwd}
 
         echo "====== Getting Logs ========"
         printf "\n"
         git log > ../${arr[3]}_log.txt
-        rm -rf 'c:\Users\Miguel Alvarado\Documents\GitHub\shell scripting\CollectDeveloperEmails\work\storm'
+        rm -rf 'c:\Users\Miguel Alvarado\Documents\GitHub\Linux-Scripting\CollectDeveloperEmails\work\storm'
         echo "complete"
     fi
-    cd 'c:\Users\Miguel Alvarado\Documents\GitHub\shell scripting\CollectDeveloperEmails\work' 
+    cd 'c:\Users\Miguel Alvarado\Documents\GitHub\Linux-Scripting\CollectDeveloperEmails\work' 
 
 #read authors
     while read line 
